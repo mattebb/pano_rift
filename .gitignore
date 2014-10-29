@@ -1,0 +1,3 @@
+bin/pano_RiftDebug.app/*
+bin/data/*.jpg
+bin/data/*.png
